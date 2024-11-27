@@ -51,6 +51,8 @@ DB_DIALECT=""
 DB_PORT=
       
 
+      This link contains the structure and format for .env file - https://drive.google.com/file/d/1wJusBWHq78pdOSoa7Cn6EeFP7h9AIMIC/view?usp=sharing
+
 # How to run  the project
 
 1. Execute "npm run dev" command for running the project 
